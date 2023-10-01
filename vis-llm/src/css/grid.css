@@ -1,0 +1,9 @@
+.grid-cell {
+  width: 10px; /* 设置网格单元的宽度 */
+  height: 10px; /* 设置网格单元的高度 */
+  border: 1px solid #000; /* 可以添加边框样式以更好地显示网格 */
+}
+
+.selected {
+  background-color: #000; /* 设置选中网格单元的背景颜色 */
+}
