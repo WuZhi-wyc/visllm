@@ -1,7 +1,8 @@
 import { useState } from 'react'
 import MySvgComponent from './component/ReactFoot'
 // import MySvg from './component/MySvg'
-import Draw from './component/Draw'
+import Drawtest from './component/Drawtest'
+// import Draw from './component/Draw'
 
 import {
   DesktopOutlined,
@@ -66,7 +67,8 @@ function App() {
           }}
           >
             {/* <MySvg /> */}
-            <Draw />
+            {/* <Draw /> */}
+            <Drawtest />
           </Content>
           <Footer style={{
             textAlign: 'center',
